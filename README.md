@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abhijit01729. I am an engineering graduate.
-- 👀 I am interested in software development. I am familiar with C, C++, Python and Javascript.
-- 🌱 I am currently learning Web Development.
-- 💞 I plan to learn new technologies and collaborate. 
+- 👋 Hi, I am Abhijit Banerjee. I am an engineering graduate.
+- 👀 I am interested in data analytics, data science, machine learning and deep learning. I am familiar with Python, SQL and C++.
+- 🌱 I am currently working as a software engineer but I wish to switch to the data analytics or data science field.
+- 💞 I plan to learn new tools & technologies and collaborate. 
 - 📫 Reach me at abhijitbanerjee2297@gmail.com
 
 <!---
