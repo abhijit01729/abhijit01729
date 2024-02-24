@@ -1,6 +1,5 @@
 - 👋 Hi, I am Abhijit Banerjee. I am an engineering graduate.
-- 👀 I am interested in software development, data science, machine learning and deep learning. I am familiar with Python, C, C++, C#.
-- 🌱 I am currently working as a software engineer.
+- 👀 I am interested in software development, data science, machine learning and deep learning. I am familiar with C, Python, C++, C#, Go.
 - 💞 I plan to learn new tools & technologies and collaborate. 
 - 📫 Reach me at abhijitbanerjee2297@gmail.com
 
